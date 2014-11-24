@@ -1,0 +1,95 @@
+NAME
+    Map::Tube::Moscow - Interface to the Moscow Tube Map.
+
+SYNOPSIS
+     use Map::Tube::Moscow;
+     my $obj = Map::Tube::Moscow->new;
+     my $route = $obj->get_shortest_route($from, $to);
+     my $xml_file = $obj->xml;
+
+DESCRIPTION
+    It currently provides functionality to find the shortest route between
+    the two given nodes.
+
+    For more information about Moscow Map, click here
+    <https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%8
+    1%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%
+    B8%D1%82%D0%B5%D0%BD>.
+
+METHODS
+    "new()"
+             Constructor.
+
+    "get_shortest_route($from, $to)"
+             Get shortest route between $from and $to node name. Node name is case insensitive.
+             Returns back the node sequence in string.
+
+    "xml()"
+             Get XML specification of Moscow metro.
+             Returns string with XML.
+
+EXAMPLE1
+     # Pragmas.
+     use strict;
+     use warnings;
+
+     # Modules.
+     use Encode qw(decode_utf8 encode_utf8);
+     use Map::Tube::Moscow;
+
+     # Object.
+     my $obj = Map::Tube::Moscow->new;
+
+     # Get route.
+     my $route = $obj->get_shortest_route(decode_utf8('Планерная'), decode_utf8('Белорусская'));
+
+     # Print out type.
+     print "Route: ".encode_utf8($route)."\n";
+
+     # Output:
+     # TODO
+
+EXAMPLE2
+     # Pragmas.
+     use strict;
+     use utf8;
+     use warnings;
+
+     # Modules.
+     use Map::Tube::Moscow;
+
+     # Object.
+     my $obj = Map::Tube::Moscow->new;
+
+     # Get XML file.
+     my $xml_file = $obj->xml;
+
+     # Print out XML file.
+     print "XML file: $xml_file\n";
+
+     # Output like:
+     # XML file: .*/moscow-map.xml
+
+DEPENDENCIES
+    File::Share, Map::Tube, Moo, namespace::clean.
+
+SEE ALSO
+    Map::Tube, Map::Tube::Barcelona, Map::Tube::Delhi, Map::Tube::London,
+    Map::Tube::Prague, Map::Tube::Tokyo.
+
+REPOSITORY
+    <https://github.com/Manwar/Map-Tube-Moscow>
+
+AUTHOR
+    Michal Špaček <mailto:skim@cpan.org>
+
+    <http://skim.cz>
+
+LICENSE AND COPYRIGHT
+     © Michal Špaček 2014
+     Artistic License
+     BSD 2-Clause License
+
+VERSION
+    0.01
+
