@@ -3,6 +3,7 @@ use strict;
 use warnings;
 
 # Modules.
+use Encode qw(decode_utf8);
 use English;
 use Map::Tube::Moscow;
 use Test::More tests => 5;
@@ -35,7 +36,7 @@ like(
 
 # Test.
 eval {
-	$map->get_shortest_route('Kobylisy', 'Foo');
+	$map->get_shortest_route(decode_utf8('Китай-город'), 'Foo');
 };
 like(
 	$EVAL_ERROR,
