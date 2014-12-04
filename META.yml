@@ -29,7 +29,7 @@ no_index:
     - t
 requires:
   File::Share: 0
-  Map::Tube: '2.26'
+  Map::Tube: '2.30'
   Moo: 0
   namespace::clean: 0
   perl: 5.8.0
