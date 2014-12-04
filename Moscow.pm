@@ -45,7 +45,7 @@ Map::Tube::Moscow - Interface to the Moscow Tube Map.
 It currently provides functionality to find the shortest route between the two
 given nodes.
 
-For more information about Moscow Map, click L<here|https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD>.
+For more information about Moscow Map, click L<here|https://ru.wikipedia.org/wiki/Московский_метрополитен>.
 
 =head1 METHODS
 
