@@ -93,7 +93,6 @@ For more information about Moscow Map, click L<here|https://ru.wikipedia.org/wik
 
  # Pragmas.
  use strict;
- use utf8;
  use warnings;
 
  # Modules.
