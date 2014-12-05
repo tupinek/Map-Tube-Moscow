@@ -19,6 +19,7 @@ META.yml
 Moscow.pm
 README
 share/moscow-map.xml
+SIGNATURE
 t/Map-Tube-Moscow/00-use.t
 t/Map-Tube-Moscow/01-version.t
 t/Map-Tube-Moscow/02-pod_coverage.t

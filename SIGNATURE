@@ -1,0 +1,54 @@
+This file contains message digests of all files listed in MANIFEST,
+signed via the Module::Signature module, version 0.70.
+
+To verify the content in this distribution, first make sure you have
+Module::Signature installed, then type:
+
+    % cpansign -v
+
+It will check each file's integrity, as well as the signature's
+validity.  If "==> Signature verified OK! <==" is not displayed,
+the distribution may already have been compromised, and you should
+not run its Makefile.PL or Build.PL.
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+SHA1 2269d027e93ae73e05fd230d0cf8cd9c1de8f514 Changes
+SHA1 882221895a73bad18eb9f16a0ce523a968a932c1 LICENSE.artistic_2
+SHA1 62ea8161d1cc7e68c6aa5a240b42a571037b8c51 LICENSE.bsd
+SHA1 0b40c6059b694b2020b5d18c77f61825f431e7ea MANIFEST
+SHA1 4bf08c601a6ff43c78ffbaec6e236fe00be0306c META.yml
+SHA1 0ef054dbf76734913f661bf707f8543614465c94 Makefile.PL
+SHA1 fa4f2f614b49ae0a52f5cef8ca686a6273c748eb Moscow.pm
+SHA1 89dc9e6b65627ad1c2d5fcbf5b5f12fa8d84a808 README
+SHA1 52d1ab081adcb0b66c5a76a584c4369e74d46b1a examples/ex1.pl
+SHA1 c3e81c878f34dae900b2c5f7dd678b2abbf87ecb examples/ex2.pl
+SHA1 d2664c57b65686abbfbbe1e71229761625be4922 inc/Module/Install.pm
+SHA1 da41a8d9904f7b409b49a5f6c338d3eb305a2b4b inc/Module/Install/Base.pm
+SHA1 0db0afe19cd298abba248fa089e5525bd5ab3ab6 inc/Module/Install/Can.pm
+SHA1 e7152bfd5ca67d0e33f96d09c59d600bca5c1f15 inc/Module/Install/Fetch.pm
+SHA1 29ee1cb0dc262b00983e3a2f5cf00b538dff5069 inc/Module/Install/Makefile.pm
+SHA1 e963f80cfe255f16e55067d1feb6841cff3ed2fe inc/Module/Install/Metadata.pm
+SHA1 79f5b4199f622e8b05aac266b0c39f6a85bb303f inc/Module/Install/ReadmeFromPod.pm
+SHA1 3283fb3bb58e10c29029567e63b805cdeb66af10 inc/Module/Install/Share.pm
+SHA1 65a1f09af1f4f9e47a98b6b45667c328b1b2f9c0 inc/Module/Install/Win32.pm
+SHA1 f191c49475b3f51775180cd4f7e41e3bdab7f85a inc/Module/Install/WriteAll.pm
+SHA1 1caf8f77fcc88b24b57e10c3e012f35c6439da13 share/moscow-map.xml
+SHA1 cb17b5179f60da093c816564dd7e985fbe0e8306 t/Map-Tube-Moscow/00-use.t
+SHA1 d786aefe69d6c596e685a5b3f1006af7da5cccfc t/Map-Tube-Moscow/01-version.t
+SHA1 4809d61312a6291814bfad04cdff80c94f4332e0 t/Map-Tube-Moscow/02-pod_coverage.t
+SHA1 03b792aea98eb9155834148db3049ea619d8ef24 t/Map-Tube-Moscow/03-pod.t
+SHA1 4901aa529b15d0863db9d47fbc49a4d420f86d06 t/Map-Tube-Moscow/04-get_shortest_route.t
+SHA1 fec47568f8a46f1aceb2f3ad81746ec27a66a559 t/Map-Tube-Moscow/05-xml.t
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.12 (GNU/Linux)
+
+iQEcBAEBAgAGBQJUgU8uAAoJEAwa+cf4dLBaZBEH/3SsJRBZnjYHt1sS52ZhJbrk
++TFpDvuaVmAiFHvRLctC8ERPC241usqHl3qdPHeQvwf7Ef3ClPaHZBvsC407eTsO
+KHTISh6FwL219fn9l3wCwgG6buXqL2fOBWlqg9EH6l3YZFLpz3SEDSXMUT0xbQ6s
+QA4JvCaoxioub0bM5tmEkEq71MSwyPzILbldA9rpCizboAV2KZ8x0aG1WHZc+liX
+KVEtxr+P9V7s51W4nyGCRAvSwkHsTw6ykf9D80UINdC0ZuNzPDNryUmaXCI+PaLI
+kYQFonFsTsNeCbaRqSjVCjCvaMw2KfGVRsKkMMY/ZDchjpQdfdRpupn/vHPJSL0=
+=kTug
+-----END PGP SIGNATURE-----
