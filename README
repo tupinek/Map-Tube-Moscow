@@ -1,5 +1,5 @@
 NAME
-    Map::Tube::Moscow - Interface to the Moscow Tube Map.
+    Map::Tube::Moscow - Interface to the Moscow Metro Map.
 
 SYNOPSIS
      use Map::Tube::Moscow;

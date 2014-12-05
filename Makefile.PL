@@ -6,7 +6,7 @@ use warnings;
 use inc::Module::Install;
 
 # Definition.
-abstract 'Interface to the Moscow Tube Map.';
+abstract 'Interface to the Moscow Metro Map.';
 author 'Michal Spacek <skim@cpan.org>';
 install_share 'share';
 license 'bsd';

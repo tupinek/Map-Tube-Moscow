@@ -1,5 +1,5 @@
 ---
-abstract: 'Interface to the Moscow Tube Map.'
+abstract: 'Interface to the Moscow Metro Map.'
 author:
   - 'Michal Spacek <skim@cpan.org>'
 build_requires:
