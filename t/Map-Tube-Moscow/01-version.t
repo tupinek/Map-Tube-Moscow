@@ -8,4 +8,4 @@ use Test::More 'tests' => 2;
 use Test::NoWarnings;
 
 # Test.
-is($Map::Tube::Moscow::VERSION, 0.01, 'Version.');
+is($Map::Tube::Moscow::VERSION, 0.02, 'Version.');
