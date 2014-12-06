@@ -1,4 +1,6 @@
 0.02
+ - Add Map::Tube::Berlin, Map::Tube::Minsk, Map::Tube::NYC,
+   Map::Tube::Tokyo and Map::Tube::Warsaw to SEE ALSO section in doc.
  - Improve abstract to readable version.
  - Update LICENSE AND COPYRIGHT section in doc.
 

@@ -86,8 +86,9 @@ DEPENDENCIES
     File::Share, Map::Tube, Moo, namespace::clean.
 
 SEE ALSO
-    Map::Tube, Map::Tube::Barcelona, Map::Tube::Delhi, Map::Tube::London,
-    Map::Tube::Prague, Map::Tube::Tokyo.
+    Map::Tube, Map::Tube::Barcelona, Map::Tube::Berlin, Map::Tube::Delhi,
+    Map::Tube::London, Map::Tube::Minsk, Map::Tube::NYC, Map::Tube::Prague,
+    Map::Tube::Tokyo, Map::Tube::Warsaw.
 
 REPOSITORY
     <https://github.com/Manwar/Map-Tube-Moscow>
