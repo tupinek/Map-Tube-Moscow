@@ -75,8 +75,8 @@ For more information about Moscow Map, click L<here|https://ru.wikipedia.org/wik
 
 =item C<get_shortest_route($from, $to)>
 
- Get shortest route between $from and $to node name. Node name is case insensitive.
- Returns back the node sequence in string.
+ Get shortest route between $from and $to node names. Node names in $from and $to are case insensitive.
+ Returns Map::Tube::Route object.
 
 =item C<xml()>
 
