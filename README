@@ -21,7 +21,7 @@ METHODS
     "new()"
              Constructor.
 
-    "get_all_routes($from, $to)"
+    "get_all_routes($from, $to)" [EXPERIMENTAL]
              Get all routes from station to station.
              Returns reference to array with Map::Tube::Route objects.
 

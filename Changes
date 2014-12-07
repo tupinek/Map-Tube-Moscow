@@ -1,6 +1,7 @@
 0.02
  - Add Map::Tube::Berlin, Map::Tube::Minsk, Map::Tube::NYC,
    Map::Tube::Tokyo and Map::Tube::Warsaw to SEE ALSO section in doc.
+ - Describe get_all_routes() method as EXPERIMENTAL.
  - Fix get_shortest_route() method description in doc.
  - Improve abstract to readable version.
  - Update LICENSE AND COPYRIGHT section in doc.

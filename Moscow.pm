@@ -58,7 +58,7 @@ For more information about Moscow Map, click L<here|https://ru.wikipedia.org/wik
 
  Constructor.
 
-=item C<get_all_routes($from, $to)>
+=item C<get_all_routes($from, $to)> [EXPERIMENTAL]
 
  Get all routes from station to station.
  Returns reference to array with Map::Tube::Route objects.
