@@ -1,4 +1,5 @@
-<tube>
+<tube name="Московский метрополитен">
+  <!-- https://ru.wikipedia.org/wiki/Московский_метрополитен -->
   <stations>
     <!-- Stations with multiple lines. -->
     <station id="КОМСОМОЛЬСКАЯ" name="Комсомольская" line="1 Сокольническая линия,5 Кольцевая линия" link="1-05,1-07,ПРОСПЕКТ_МИРА,КУРСКАЯ"/>

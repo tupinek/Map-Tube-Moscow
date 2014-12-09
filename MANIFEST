@@ -25,4 +25,5 @@ t/Map-Tube-Moscow/01-version.t
 t/Map-Tube-Moscow/02-pod_coverage.t
 t/Map-Tube-Moscow/03-pod.t
 t/Map-Tube-Moscow/04-get_shortest_route.t
-t/Map-Tube-Moscow/05-xml.t
+t/Map-Tube-Moscow/05-name.t
+t/Map-Tube-Moscow/06-xml.t

@@ -2,6 +2,7 @@
  - Add Map::Tube::Berlin, Map::Tube::Minsk, Map::Tube::NYC,
    Map::Tube::Tokyo and Map::Tube::Warsaw to SEE ALSO section in doc.
  - Add Map::Tube::Kiev and Map::Tube::Sofia to SEE ALSO section in doc.
+ - Add metro name.
  - Describe get_all_routes() method as EXPERIMENTAL.
  - Fix REPOSITORY section in doc.
  - Fix get_shortest_route() method description in doc.
