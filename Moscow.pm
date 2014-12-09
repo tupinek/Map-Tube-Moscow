@@ -141,10 +141,12 @@ L<Map::Tube>,
 L<Map::Tube::Barcelona>,
 L<Map::Tube::Berlin>,
 L<Map::Tube::Delhi>,
+L<Map::Tube::Kiev>,
 L<Map::Tube::London>,
 L<Map::Tube::Minsk>,
 L<Map::Tube::NYC>,
 L<Map::Tube::Prague>,
+L<Map::Tube::Sofia>,
 L<Map::Tube::Tokyo>,
 L<Map::Tube::Warsaw>.
 
