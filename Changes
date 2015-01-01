@@ -1,5 +1,6 @@
 0.03
  - Remove executable bit from moscow-map.xml file.
+ - Update copyright years to 2015.
 
 0.02 2014-12-09T07:54:20+01:00
  - Add Map::Tube::Berlin, Map::Tube::Minsk, Map::Tube::NYC,
