@@ -101,10 +101,19 @@ DEPENDENCIES
     File::Share, Map::Tube, Moo, namespace::clean.
 
 SEE ALSO
-    Map::Tube, Map::Tube::Barcelona, Map::Tube::Berlin, Map::Tube::Delhi,
-    Map::Tube::Kiev, Map::Tube::London, Map::Tube::Minsk, Map::Tube::NYC,
-    Map::Tube::Prague, Map::Tube::Sofia, Map::Tube::Tokyo,
-    Map::Tube::Warsaw.
+    Map::Tube, Map::Tube::Graph, Map::Tube::GraphViz,
+    Map::Tube::Plugin::FuzzyFind, Map::Tube::Plugin::Graph,
+    Map::Tube::Text::Table, Task::Map::Tube.
+
+    Map::Tube::Barcelona, Map::Tube::Berlin, Map::Tube::Bucharest,
+    Map::Tube::Budapest, Map::Tube::Delhi, Map::Tube::Dnipropetrovsk,
+    Map::Tube::Glasgow, Map::Tube::Kazan, Map::Tube::Kharkiv,
+    Map::Tube::Kiev, Map::Tube::KoelnBonn, Map::Tube::London,
+    Map::Tube::Lyon, Map::Tube::Minsk, Map::Tube::NYC, Map::Tube::Nanjing,
+    Map::Tube::Novosibirsk, Map::Tube::Prague, Map::Tube::SaintPetersburg,
+    Map::Tube::Samara, Map::Tube::Singapore, Map::Tube::Sofia,
+    Map::Tube::Tbilisi, Map::Tube::Tokyo, Map::Tube::Vienna,
+    Map::Tube::Warsaw, Map::Tube::Yekaterinburg.
 
 REPOSITORY
     <https://github.com/tupinek/Map-Tube-Moscow>
