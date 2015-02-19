@@ -1,5 +1,6 @@
 0.03
  - Add <?xml> header to XML document.
+ - Add get_lines() method to doc.
  - Remove executable bit from moscow-map.xml file.
  - Update copyright years to 2015.
 
