@@ -146,6 +146,43 @@ For more information about Moscow Map, click L<here|https://ru.wikipedia.org/wik
  # Output like:
  # XML file: .*/moscow-map.xml
 
+=head1 EXAMPLE3
+
+ # Pragmas.
+ use strict;
+ use warnings;
+
+ # Modules.
+ use Map::Tube::GraphViz;
+ use Map::Tube::GraphViz::Utils qw(node_color_without_label);
+ use Map::Tube::Moscow;
+
+ # Object.
+ my $obj = Map::Tube::Moscow->new;
+
+ # GraphViz object.
+ my $g = Map::Tube::GraphViz->new(
+         'callback_node' => \&node_color_without_label,
+         'tube' => $obj,
+ );
+
+ # Get graph to file.
+ $g->graph('Moscow.png');
+
+ # Print file.
+ system "ls -l Moscow.png";
+
+ # Output like:
+ # -rw-r--r-- 1 skim skim 527784 Feb 19 08:09 Moscow.png
+
+=begin html
+
+<a href="https://raw.githubusercontent.com/tupinek/Map-Tube-Moscow/master/images/ex3.png">
+  <img src="https://raw.githubusercontent.com/tupinek/Map-Tube-Moscow/master/images/ex3.png" alt="Pražské metro" width="300px" height="300px" />
+</a>
+
+=end html
+
 =head1 DEPENDENCIES
 
 L<File::Share>,

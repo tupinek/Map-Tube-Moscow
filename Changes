@@ -1,5 +1,6 @@
 0.03
  - Add <?xml> header to XML document.
+ - Add EXAMPLE3 section to doc.
  - Add get_lines() method to doc.
  - Add get_stations() method to doc.
  - Remove executable bit from moscow-map.xml file.
