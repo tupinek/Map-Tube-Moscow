@@ -1,5 +1,6 @@
 0.04
  - Add lines to XML document.
+ - Add test of map validity.
 
 0.03 2015-02-19T08:11:55+01:00
  - Add <?xml> header to XML document.
