@@ -173,7 +173,7 @@ For more information about Moscow Map, click L<here|https://ru.wikipedia.org/wik
  system "ls -l Moscow.png";
 
  # Output like:
- # -rw-r--r-- 1 skim skim 577241 Mar  1 23:55 Moscow.png
+ # -rw-r--r-- 1 skim skim 549576 Mar  9 21:39 Moscow.png
 
 =begin html
 
