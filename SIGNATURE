@@ -14,18 +14,18 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 01155bbdd118a4f4ebc08cf2b70203e21a1e6401 Changes
+SHA1 a76a1b1d671a80427281cf2a0a05fc3e38184de8 Changes
 SHA1 882221895a73bad18eb9f16a0ce523a968a932c1 LICENSE.artistic_2
 SHA1 507a10efa92555ddddfbe72be27964d9e3eef80f LICENSE.bsd
 SHA1 3aecaacefe311cc974c99ea7624ac82e6a997c32 MANIFEST
-SHA1 760d96dbf129cbcf5b11995f29fb42553f483090 META.yml
-SHA1 b6aae41a7d58d11774d59f915a5126c12b59f046 Makefile.PL
-SHA1 9514fc22b88721cf38f8abe1a071d72eaa2835c0 Moscow.pm
-SHA1 2ddeac2e816749b09d6ed927b397cdb5e92d6cf8 README
+SHA1 6733b5940fa5159d0f2c5e056ef493ed5526909e META.yml
+SHA1 2e5e8fe01ba628112b03e1c99a5c89cae4bbde4c Makefile.PL
+SHA1 274c06fa4aecd2b956c111544e0ba4a7e798b23f Moscow.pm
+SHA1 8c79e2809656e36e69ed860f34b658d4bd42d29a README
 SHA1 52d1ab081adcb0b66c5a76a584c4369e74d46b1a examples/ex1.pl
 SHA1 c3e81c878f34dae900b2c5f7dd678b2abbf87ecb examples/ex2.pl
-SHA1 eab177da7d2f2a125a8c7a601991fb8ec0ef7110 examples/ex3.pl
-SHA1 1ee7a0d4cbb3c659e90fbb80d2fc2e00cea68aa0 images/ex3.png
+SHA1 709e87f737fca9f8bde19b6d4a7fb627d2cef68d examples/ex3.pl
+SHA1 f2e212e5b43b3c933e8100407364185c03d803de images/ex3.png
 SHA1 d2664c57b65686abbfbbe1e71229761625be4922 inc/Module/Install.pm
 SHA1 da41a8d9904f7b409b49a5f6c338d3eb305a2b4b inc/Module/Install/Base.pm
 SHA1 0db0afe19cd298abba248fa089e5525bd5ab3ab6 inc/Module/Install/Can.pm
@@ -36,23 +36,23 @@ SHA1 79f5b4199f622e8b05aac266b0c39f6a85bb303f inc/Module/Install/ReadmeFromPod.p
 SHA1 3283fb3bb58e10c29029567e63b805cdeb66af10 inc/Module/Install/Share.pm
 SHA1 65a1f09af1f4f9e47a98b6b45667c328b1b2f9c0 inc/Module/Install/Win32.pm
 SHA1 f191c49475b3f51775180cd4f7e41e3bdab7f85a inc/Module/Install/WriteAll.pm
-SHA1 5b5d9a4ad7aa8128e1324a9746f41540ca75254d share/moscow-map.xml
+SHA1 e71ce65ecfaf8c036d4af2d8ddc163404531f356 share/moscow-map.xml
 SHA1 cb17b5179f60da093c816564dd7e985fbe0e8306 t/Map-Tube-Moscow/00-use.t
-SHA1 3a66569202d9fd606690a03b8f44d720efcf654a t/Map-Tube-Moscow/01-version.t
+SHA1 7627d82aed1ae34146f26f73b37a9c5ae7b6f965 t/Map-Tube-Moscow/01-version.t
 SHA1 4809d61312a6291814bfad04cdff80c94f4332e0 t/Map-Tube-Moscow/02-pod_coverage.t
 SHA1 03b792aea98eb9155834148db3049ea619d8ef24 t/Map-Tube-Moscow/03-pod.t
-SHA1 c485e4e2fbdaafeb3cd20e1ddbbdd69a8e8fb330 t/Map-Tube-Moscow/04-map.t
+SHA1 65288a77972a3f79592e91b3ffc0d7fd7478bfe6 t/Map-Tube-Moscow/04-map.t
 SHA1 4901aa529b15d0863db9d47fbc49a4d420f86d06 t/Map-Tube-Moscow/05-get_shortest_route.t
 SHA1 0846046251b0ae4947d2af00301641b26573c60f t/Map-Tube-Moscow/06-name.t
 SHA1 fec47568f8a46f1aceb2f3ad81746ec27a66a559 t/Map-Tube-Moscow/07-xml.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.12 (GNU/Linux)
 
-iQEcBAEBAgAGBQJU85lvAAoJEJe+XXKaIuTld+MIAJ7pWZm8BrgD5mRIOukEd/yE
-Z2g8aPTwq/Y4wliYiNN6KSEMOBf+B5rAbkuZ2lPy1w3kypgYkzz5wbM/jZb+URAC
-SEGm+x+YTTQGKrvQLJCkAM0rzQjyBJCXG1BOUXqPraftD0QZcNxKHH+AG5qn1oNS
-GaDi6/2n4Jus5jAwX2WsfMvM/dU4mAUW0xwCk0MseZL8PlI3+l06jbaJRWbHqiLD
-Msq3heEiRgTDvPv91BYPhN9qDPJxIVKCzKr3vV4lL/y17/SDoyKzSaRW9rNdVH8/
-B7HOaVbSp00sFN+Zm8iWFEcNttGQ89VK8KIBO3rLE3gdul+YTWmUzyCYML80/vM=
-=GNqv
+iQEcBAEBAgAGBQJU/gV5AAoJEJe+XXKaIuTlr6IH/1OvNhYIthPBWCj5KQEBf9Cq
+mgxr2ROljxppbtVDLd/s/gFQ80NLVTTDOw2guuTW7uM0sQ/Pg6TG9dExMMXkCHJQ
+gLjl+WQ4D5VC7zBDGyyuh3sybw3vLUFJP3VcGFgDMvfilorGEPKPN+lcTPVhkAu+
+qAl8wRUe5xHKIQ2kmcDKYrPBgzlvB7NEXczDDTplpi3tm0JRep4Q42Aqq8IKtjAx
+rx+l6PIfYNE3pofFtE+fnOnUL+WyraByR6weUz4MEMw2AaIx2WAGDG2CIs1nBbL6
+2IbO3AobGBFSMYE/RY/hrzocmciwhUJKabC7wvJVpsy3BwfOzk23o9pyoZ99Cl8=
+=loIN
 -----END PGP SIGNATURE-----
