@@ -4,8 +4,8 @@ use warnings;
 
 # Modules.
 use Map::Tube::Moscow;
-use Test::Map::Tube;
-#use Test::NoWarnings;
+use Test::Map::Tube 'tests' => 2;
+use Test::NoWarnings;
 
 # Test.
 ok_map(Map::Tube::Moscow->new);
