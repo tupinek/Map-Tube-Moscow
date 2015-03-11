@@ -1,4 +1,5 @@
 0.06
+ - Add test comment.
  - Fix Test::Map::Tube and planning of tests.
 
 0.05 2015-03-09T21:41:26+01:00
