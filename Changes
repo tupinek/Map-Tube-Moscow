@@ -2,6 +2,7 @@
  - Add test comment.
  - Fix Test::Map::Tube and planning of tests.
  - Rewrite SEE ALSO section to new style.
+ - Update Module::Install to 1.16 version.
 
 0.05 2015-03-09T21:41:26+01:00
  - Fix XML document to right map validity (Thanks Gisbert W. Selke).
