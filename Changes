@@ -1,4 +1,5 @@
 0.06
+ - Add EXAMPLE4 to doc.
  - Add test comment.
  - Fix Test::Map::Tube and planning of tests.
  - Rewrite SEE ALSO section to new style.
