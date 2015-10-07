@@ -1,4 +1,4 @@
-0.06
+0.06 2015-10-07T13:07:12+02:00
  - Add EXAMPLE4 to doc.
  - Add get_line_by_id() and get_line_by_name() methods to doc.
  - Add test comment.
