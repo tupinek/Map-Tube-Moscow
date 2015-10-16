@@ -81,7 +81,7 @@ For more information about Moscow Map, click L<here|https://ru.wikipedia.org/wik
 =item C<get_lines()>
 
  Get lines in metro map.
- Returns reference to array with Map::Tube::Line objects.
+ Returns reference to unsorted array with Map::Tube::Line objects.
 
 =item C<get_node_by_id($station_id)>
 
