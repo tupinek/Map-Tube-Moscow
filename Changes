@@ -2,6 +2,7 @@
  - Add EXAMPLE5 section to doc.
  - Implement station order.
  - Rewrite XML map to new version with line IDs.
+ - Update to Map::Tube 3.37.
 
 0.07 2015-10-16T12:08:53+02:00
  - Improve description for get_lines() in doc.
