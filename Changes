@@ -1,6 +1,7 @@
 0.08
  - Add EXAMPLE5 section to doc.
  - Add test for ok_map_functions().
+ - Fix color name.
  - Implement station order.
  - Rewrite XML map to new version with line IDs.
  - Update Module::Install to 1.18 version.

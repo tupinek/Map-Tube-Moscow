@@ -10,7 +10,7 @@
     <line id="6" name="Калужско-Рижская линия" color="orange"/>
     <line id="7" name="Таганско-Краснопресненская линия" color="magenta"/>
     <line id="8" name="Калининско-Солнцевская линия" color="yellow"/>
-    <line id="9" name="Серпуховско-Тимирязевская линия" color="grey"/>
+    <line id="9" name="Серпуховско-Тимирязевская линия" color="gray"/>
     <line id="10" name="Люблинско-Дмитровская линия" color="#d1e681"/>
     <line id="11" name="Каховская линия" color="lightcyan"/>
     <line id="12" name="Бутовская линия" color="lightgrey"/>
