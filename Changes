@@ -1,4 +1,5 @@
 0.09
+ - Fix Makefile.PL for new version of Perl and no default »use lib '.'«.
 
 0.08 2017-11-08T13:02:58+01:00
  - Add EXAMPLE5 section to doc.
